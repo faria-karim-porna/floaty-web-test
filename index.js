@@ -1,4 +1,5 @@
 document.getElementById("openPopUp").addEventListener("click", () => {
+    console.log("openPopUp clicked");
   openDocumentPiP();
 });
 
